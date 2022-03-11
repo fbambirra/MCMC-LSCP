@@ -18,3 +18,6 @@ The first column contains the x coordinates and the second one the y coordinates
 For the spatiotemporal code, the third collumn contains the times (starting at 1).
 
 The covariance function is set in file cov_func.ox - default is the poered exponential with exponent 1.95.
+
+Code for the spatial model is in file spatial.rar.
+Code for the spatiotemporal model is in file spatiotemporal.rar.
