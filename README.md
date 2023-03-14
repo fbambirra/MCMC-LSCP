@@ -9,8 +9,6 @@ The algorithms are coded in Ox
 Please, download Ox Console (including OxEdit) from the link https://www.doornik.com/download.html.
 Ox is free for academic use.
 
-Parallel computing requires Ox Professional, which is paid.
-
 The main file mcmc.ox is the one to be run and contains all the required specifications to be set.
 
 The first row of the data file should contain its number of rows and columns (Ox format).
